@@ -31,6 +31,25 @@
 ![image](https://user-images.githubusercontent.com/81582495/125408100-babe1480-e3e4-11eb-9c42-6b002cb1afb2.png)
 ![image](https://user-images.githubusercontent.com/81582495/125408044-ada12580-e3e4-11eb-9347-1293759c8e40.png)
 
+# 6. Tampilan Laporan
+![image](https://user-images.githubusercontent.com/81582495/125414010-68741176-83ea-4686-98f5-a9dbeae58900.png)
+
+# 7. Tampilan Print
+![image](https://user-images.githubusercontent.com/81582495/125414059-cdb6eb73-7a9d-4983-9c9c-0001346a721a.png)
+
+# 8. Membuat Trigger
+# Create Trigger dan log_produk
+![image](https://user-images.githubusercontent.com/81582495/125420978-824b7dd6-ca66-48dc-9202-fb8db97a5439.png)
+![image](https://user-images.githubusercontent.com/81582495/125421095-8ff76acb-9907-4193-b903-b778b6a13f97.png)
+# Update Data
+![image](https://user-images.githubusercontent.com/81582495/125421245-1bb438ec-e51e-4853-8866-c6378795c4e8.png)
+![image](https://user-images.githubusercontent.com/81582495/125421307-80e33fbd-6cd8-4bef-8987-f72927bcd21b.png)
+![image](https://user-images.githubusercontent.com/81582495/125421370-fb6d6974-a5e1-433b-9e3b-7c1b9655fcd1.png)
+ # 9. Log OUt
+ ![image](https://user-images.githubusercontent.com/81582495/125421465-068192f8-ee8a-4fe2-a728-a0605d6a7b10.png)
+
+
+
 
 
 
