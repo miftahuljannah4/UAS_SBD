@@ -10,7 +10,7 @@
 ![image](https://user-images.githubusercontent.com/81582495/125404243-a0823780-e3e0-11eb-8e48-04c35cb486fe.png)
 
 # 2. Desain Database
-![image](https://user-images.githubusercontent.com/81582495/125404506-e17a4c00-e3e0-11eb-947b-95bfdf260e87.png)
+![image](https://user-images.githubusercontent.com/81582495/125629131-0960566a-a284-4b3f-96e1-ed538a7a21d1.png)
 
 # 3. Tampilan Login, dengan cara mengakses http://localhost/UAS123/login.php
 ![Screenshot (329)](https://user-images.githubusercontent.com/81582495/125404696-1a1a2580-e3e1-11eb-87d2-99223e25098c.png)
