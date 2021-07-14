@@ -38,13 +38,14 @@
 ![image](https://user-images.githubusercontent.com/81582495/125414059-cdb6eb73-7a9d-4983-9c9c-0001346a721a.png)
 
 # 8. Membuat Trigger
-# Create Trigger dan log_produk
+# Create Trigger dan Table log_produk
 ![image](https://user-images.githubusercontent.com/81582495/125420978-824b7dd6-ca66-48dc-9202-fb8db97a5439.png)
 ![image](https://user-images.githubusercontent.com/81582495/125421095-8ff76acb-9907-4193-b903-b778b6a13f97.png)
+# Create Trigger dan Table log_produk
+![image](https://user-images.githubusercontent.com/81582495/125626468-455f4e15-1851-47e0-acd2-987ce2257cb2.png)
 # Update Data
-![image](https://user-images.githubusercontent.com/81582495/125421245-1bb438ec-e51e-4853-8866-c6378795c4e8.png)
-![image](https://user-images.githubusercontent.com/81582495/125421307-80e33fbd-6cd8-4bef-8987-f72927bcd21b.png)
-![image](https://user-images.githubusercontent.com/81582495/125421370-fb6d6974-a5e1-433b-9e3b-7c1b9655fcd1.png)
+![image](https://user-images.githubusercontent.com/81582495/125626552-eba40a11-d907-49d8-ad55-eacb885f2400.png)
+![image](https://user-images.githubusercontent.com/81582495/125626701-574a04a5-49df-47f8-b4e9-7820f458d45e.png)
  # 9. Log OUt
  ![image](https://user-images.githubusercontent.com/81582495/125421465-068192f8-ee8a-4fe2-a728-a0605d6a7b10.png)
 
